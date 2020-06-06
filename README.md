@@ -15,6 +15,11 @@
 2.加油
 3.加油
 
+好的搜索网站是[谷歌搜索](https://www.google.com)
+
+![认真学习](6月6日报内容.png)
+
+
 ```javascript
 console.log('hello')
 ```
